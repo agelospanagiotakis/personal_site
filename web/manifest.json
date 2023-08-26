@@ -1,0 +1,18 @@
+{
+    "name": "Angelos Panagiotakis | Social Links",
+    "short_name": "Angelos Panagiotakis",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#4361EE",
+    "theme_color": "#4361EE",
+    "description": "Angelos Panagiotakis | Social Links",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "profile.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
