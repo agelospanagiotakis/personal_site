@@ -42,7 +42,7 @@ class ContactRepositoryImpl implements ContactRepository {
           'template_params': {
             'user_name': contact.name,
             'user_email': contact.email,
-            'user_subject': contact.email,
+            'user_subject': contact.subject,
             'user_message': contact.message,
             'to_email': toEmail,
           },
